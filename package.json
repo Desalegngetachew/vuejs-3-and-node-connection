@@ -1,0 +1,14 @@
+{
+  "name": "agri_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexrout.js",
+  "scripts": {
+    "start": "node indexrout.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
